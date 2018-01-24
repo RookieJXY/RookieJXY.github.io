@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://rookiejxy.github.io/"/>
-  <updated>2018-01-24T07:29:44.619Z</updated>
+  <updated>2018-01-24T11:43:54.523Z</updated>
   <id>https://rookiejxy.github.io/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决Charles乱码问题</title>
+    <link href="https://rookiejxy.github.io/2018/01/24/%E8%A7%A3%E5%86%B3Charles%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98/"/>
+    <id>https://rookiejxy.github.io/2018/01/24/解决Charles乱码问题/</id>
+    <published>2018-01-24T11:42:45.000Z</published>
+    <updated>2018-01-24T11:43:54.523Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="技巧" scheme="https://rookiejxy.github.io/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="技巧" scheme="https://rookiejxy.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>你好,Hexo</title>
